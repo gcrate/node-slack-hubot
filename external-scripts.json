@@ -7,9 +7,9 @@
     "hubot-pugme",
     "hubot-business-cat",
     "hubot-victory",
-	"hubot-qr" : "0.0.2",
-	"hubot-2048" : "1.0.1",
-	"hubot-fliptable" : "1.2.0",
-	"hubot-devopsreactions" : "0.0.2",
-	"hubot-outofcontext": "1.0.1"
+	"hubot-qr",
+	"hubot-2048",
+	"hubot-fliptable",
+	"hubot-devopsreactions",
+	"hubot-outofcontext"
 ]
