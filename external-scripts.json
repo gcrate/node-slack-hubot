@@ -6,5 +6,10 @@
     "hubot-meme",
     "hubot-pugme",
     "hubot-business-cat",
-    "hubot-victory"
+    "hubot-victory",
+	"hubot-qr",
+	"hubot-2048",
+	"hubot-fliptable",
+	"hubot-devopsreactions",
+	"hubot-outofcontext"
 ]
